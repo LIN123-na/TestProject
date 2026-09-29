@@ -1,0 +1,1 @@
+Private methods cannot be accessed outside the class whereas as final methods cannot be overridden.
